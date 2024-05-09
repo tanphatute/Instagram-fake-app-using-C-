@@ -1,0 +1,9 @@
+/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/sg.dir
+/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/sg_autogen_timestamp_deps.dir
+/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/sg_autogen.dir

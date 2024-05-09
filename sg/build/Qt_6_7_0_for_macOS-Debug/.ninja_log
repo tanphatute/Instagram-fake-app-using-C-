@@ -1,0 +1,59 @@
+# ninja log v5
+3389	6085	1715195357365058872	CMakeFiles/sg.dir/blockuser.cpp.o	9b24b895ca9e1a5a
+3391	6062	1715195357341326209	CMakeFiles/sg.dir/blockeduser.cpp.o	894728b715afb5c8
+6	61	1715195351348483788	sg_autogen/mocs_compilation.cpp	bd759e8fb883d43b
+57	101	1713085845779575075	/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/sg_autogen/EWIEGA46WW/qrc_res.cpp	27dea0796d7710a1
+9476	11541	1713163671021986593	CMakeFiles/sg.dir/sg_autogen/EWIEGA46WW/qrc_res.cpp.o	e4a096881a3690d5
+3349	6020	1715195357298750708	CMakeFiles/sg.dir/oldmessages.cpp.o	7939311c0c18d126
+40	55	0	clean	acd6e431b0378e4f
+2	271	1713125216289973735	build.ninja	25b5645e768b272b
+20	459	1713100921380223000	/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/sg_autogen/timestamp	31b6b7657dff438b
+6	61	1715195351348483788	/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/sg_autogen/mocs_compilation.cpp	bd759e8fb883d43b
+0	40	0	CMakeFiles/clean.additional	3c1c50cbf5f64e22
+9458	9534	1713163669019697421	CMakeFiles/sg.dir/giua.cpp.o	e8c846806abe0d57
+63	3389	1715195354663114490	CMakeFiles/sg.dir/updateaccountnext.cpp.o	c01fa350f1856fca
+64	3623	1715195354901238698	CMakeFiles/sg.dir/messages.cpp.o	353acde4c1b955f6
+63	3349	1715195354621379695	CMakeFiles/sg.dir/searchaccount.cpp.o	9abeca884fc36e84
+63	2776	1715195354052575207	CMakeFiles/sg.dir/menu.cpp.o	2268b317d348d527
+20	459	1713100921380223000	/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/sg_autogen/mocs_compilation.cpp	31b6b7657dff438b
+65	3293	1715195354568645172	CMakeFiles/sg.dir/follower.cpp.o	25bb9b035adc8e62
+239	2815	1715187620747840549	CMakeFiles/sg.dir/main.cpp.o	98282120d3744fb
+3346	6050	1715195357327431444	CMakeFiles/sg.dir/rep.cpp.o	dac6038187e8efd
+63	3318	1715195354595826120	CMakeFiles/sg.dir/updateaccount.cpp.o	d2e21a2c5b668a5b
+1498	1639	1713163661123263437	/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/sg_autogen/EWIEGA46WW/qrc_res.cpp	2c01f9fbcd1f74a2
+1498	1639	1713163661123263437	sg_autogen/EWIEGA46WW/qrc_res.cpp	2c01f9fbcd1f74a2
+3318	5975	1715195357250292468	CMakeFiles/sg.dir/apprating.cpp.o	71ac09776f411701
+3311	6036	1715195357312928972	CMakeFiles/sg.dir/rateapp.cpp.o	219e18737ceeaab8
+6	61	1715195351348483788	sg_autogen/timestamp	bd759e8fb883d43b
+64	3345	1715195354623261483	CMakeFiles/sg.dir/follow.cpp.o	e9ee5e4f101cc905
+2777	5828	1715195357103029334	CMakeFiles/sg.dir/following.cpp.o	c025c81a3fea34a1
+3293	6048	1715195357326223446	CMakeFiles/sg.dir/recentmessages.cpp.o	101ef1f25ae539c9
+62	3653	1715195354931263182	CMakeFiles/sg.dir/mainwindow.cpp.o	17acf58d3b941e5f
+6	61	1715195351348483788	/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/sg_autogen/timestamp	bd759e8fb883d43b
+63	3391	1715195354662926949	CMakeFiles/sg.dir/signup.cpp.o	14010ac2f3f0cc6
+6085	6302	1715195357586429112	sg.app/Contents/MacOS/sg	395087c31e283416
+239	3229	1715187621167032869	CMakeFiles/sg.dir/sg_autogen/mocs_compilation.cpp.o	87be225b6ea7cdaf
+63	3311	1715195354588122718	CMakeFiles/sg.dir/deleteaccount.cpp.o	17f325ce78cbaf5d
+6	84	1715196035927232154	sg_autogen/timestamp	bd759e8fb883d43b
+6	84	1715196035927232154	sg_autogen/mocs_compilation.cpp	bd759e8fb883d43b
+6	84	1715196035927232154	/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/sg_autogen/timestamp	bd759e8fb883d43b
+6	84	1715196035927232154	/Users/phamhy/Downloads/Workspace/HỌC TẬP/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug/sg_autogen/mocs_compilation.cpp	bd759e8fb883d43b
+86	2559	1715196038392083451	CMakeFiles/sg.dir/menu.cpp.o	2268b317d348d527
+90	3028	1715196038858271886	CMakeFiles/sg.dir/follower.cpp.o	25bb9b035adc8e62
+87	3057	1715196038889124952	CMakeFiles/sg.dir/deleteaccount.cpp.o	17f325ce78cbaf5d
+87	3059	1715196038886457290	CMakeFiles/sg.dir/updateaccount.cpp.o	d2e21a2c5b668a5b
+87	3077	1715196038908502831	CMakeFiles/sg.dir/searchaccount.cpp.o	9abeca884fc36e84
+87	3114	1715196038946788383	CMakeFiles/sg.dir/updateaccountnext.cpp.o	c01fa350f1856fca
+87	3137	1715196038970663962	CMakeFiles/sg.dir/follow.cpp.o	e9ee5e4f101cc905
+86	3181	1715196039008616389	CMakeFiles/sg.dir/signup.cpp.o	14010ac2f3f0cc6
+88	3198	1715196039021368739	CMakeFiles/sg.dir/messages.cpp.o	353acde4c1b955f6
+86	3223	1715196039053956010	CMakeFiles/sg.dir/mainwindow.cpp.o	17acf58d3b941e5f
+2559	5081	1715196040912451098	CMakeFiles/sg.dir/following.cpp.o	c025c81a3fea34a1
+3059	5321	1715196041151769388	CMakeFiles/sg.dir/apprating.cpp.o	71ac09776f411701
+3057	5388	1715196041220909671	CMakeFiles/sg.dir/rateapp.cpp.o	219e18737ceeaab8
+3028	5395	1715196041229149530	CMakeFiles/sg.dir/recentmessages.cpp.o	101ef1f25ae539c9
+3114	5419	1715196041252294819	CMakeFiles/sg.dir/oldmessages.cpp.o	7939311c0c18d126
+3078	5431	1715196041265639168	CMakeFiles/sg.dir/rep.cpp.o	dac6038187e8efd
+3137	5452	1715196041287264252	CMakeFiles/sg.dir/blockuser.cpp.o	9b24b895ca9e1a5a
+3182	5471	1715196041307113255	CMakeFiles/sg.dir/blockeduser.cpp.o	894728b715afb5c8
+5471	5684	1715196041523462797	sg.app/Contents/MacOS/sg	395087c31e283416

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Following</class>
+ <widget class="QDialog" name="Following">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>523</width>
+    <height>746</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#Following{ 
+	background-image: url(:/flw.jpg);
+}
+
+#label{
+color:white
+;
+}
+#lineEdit{
+background-color:rgba(112, 57, 135,1);
+color:black;
+}
+QPushButton{
+background-color:#362854;
+color:white;
+}
+
+
+
+QTextEdit {
+background-color:rgba(82, 82, 82,0.5);
+color:white;
+}
+#frame_2{
+	background-image: url(:/icon.png);
+}
+#lineEdit{
+background-color:rgba(255, 255, 255,0.75);
+}</string>
+  </property>
+  <widget class="QTextEdit" name="textEdit">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>330</y>
+     <width>411</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>FVF Fernando 08</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="placeholderText">
+    <string>Information</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>160</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>FVF Fernando 08</family>
+     <pointsize>18</pointsize>
+     <underline>false</underline>
+     <strikeout>false</strikeout>
+     <fontweight>Black</fontweight>
+    </font>
+   </property>
+   <property name="text">
+    <string>Instagram</string>
+   </property>
+  </widget>
+  <widget class="QFrame" name="frame_2">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>140</y>
+     <width>41</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::Panel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Plain</enum>
+   </property>
+   <property name="lineWidth">
+    <number>0</number>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>230</y>
+     <width>211</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>FVF Fernando 08</family>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Show my followings</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>is .jpg</file>
+        <file>ho.jpg</file>
+        <file>jo.png</file>
+        <file>logo_ig.png</file>
+        <file>bg_login.png</file>
+        <file>bg_menu.jpeg</file>
+        <file>logo.jpg</file>
+        <file>icon.png</file>
+        <file>bg_search.jpeg</file>
+        <file>bg_update.jpeg</file>
+        <file>bg_updatenext.jpeg</file>
+        <file>at.jpg</file>
+        <file>bl.jpg</file>
+        <file>blk.jpg</file>
+        <file>delete.jpg</file>
+        <file>fl.jpg</file>
+        <file>flw.jpg</file>
+        <file>followư.jpg</file>
+        <file>ms.jpg</file>
+        <file>om.jpg</file>
+        <file>ra.jpg</file>
+        <file>re.jpg</file>
+        <file>rm.jpg</file>
+    </qresource>
+</RCC>

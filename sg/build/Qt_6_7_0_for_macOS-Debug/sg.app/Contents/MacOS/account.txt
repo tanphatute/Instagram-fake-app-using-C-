@@ -1,0 +1,4 @@
+yen yen@gmail.com yen 0911172781 28/11/2003 female public 0 0
+minh minh@gmail.com minh 0910281134 11/11/2003 male private 0 0
+qanh qanh@gmail.com qanh 0909891928 11/1/2003 male public 0 0
+phat phat@gmail.com phat 091092801 6/6/2003 male public 0 0

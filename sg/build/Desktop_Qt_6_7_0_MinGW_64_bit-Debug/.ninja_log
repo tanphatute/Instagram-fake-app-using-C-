@@ -1,0 +1,24 @@
+# ninja log v5
+22	179	7346359176531676	C:/Users/Desktop/sg/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/sg_autogen/timestamp	2017d9656bb931f4
+22	179	7346359176531676	sg_autogen/timestamp	2017d9656bb931f4
+514	2233	7346249013560373	CMakeFiles/sg.dir/sg_autogen/mocs_compilation.cpp.obj	dd35a0deca15e4a
+22	179	7346359176531676	sg_autogen/mocs_compilation.cpp	2017d9656bb931f4
+2303	2643	7346359201172490	sg.exe	c945e1f59c91758
+22	179	7346359176531676	C:/Users/Desktop/sg/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/sg_autogen/mocs_compilation.cpp	2017d9656bb931f4
+511	2248	7346249013720762	CMakeFiles/sg.dir/main.cpp.obj	cae9d88855bf9237
+254	2290	7346359197552944	CMakeFiles/sg.dir/mainwindow.cpp.obj	b7c44eaa2a41ff7a
+190	253	7346359177271123	sg_autogen/EWIEGA46WW/qrc_res.cpp	a8aa2c23273859de
+190	253	7346359177271123	C:/Users/Desktop/sg/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/sg_autogen/EWIEGA46WW/qrc_res.cpp	a8aa2c23273859de
+260	854	7346359183292342	CMakeFiles/sg.dir/sg_autogen/EWIEGA46WW/qrc_res.cpp.obj	d7412439e79fe480
+4	551	7346360242282674	build.ninja	6cc60a903a1b6a04
+257	2302	7346359197784012	CMakeFiles/sg.dir/signup.cpp.obj	c00bd60fb888e4a5
+12	156	7346362034708130	sg_autogen/timestamp	2017d9656bb931f4
+12	156	7346362034708130	sg_autogen/mocs_compilation.cpp	2017d9656bb931f4
+12	156	7346362034708130	C:/Users/Desktop/sg/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/sg_autogen/timestamp	2017d9656bb931f4
+12	156	7346362034708130	C:/Users/Desktop/sg/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/sg_autogen/mocs_compilation.cpp	2017d9656bb931f4
+166	226	7346362035357157	sg_autogen/EWIEGA46WW/qrc_res.cpp	a8aa2c23273859de
+166	226	7346362035357157	C:/Users/Desktop/sg/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/sg_autogen/EWIEGA46WW/qrc_res.cpp	a8aa2c23273859de
+229	488	7346362038049629	CMakeFiles/sg.dir/sg_autogen/EWIEGA46WW/qrc_res.cpp.obj	d7412439e79fe480
+226	2152	7346362054753871	CMakeFiles/sg.dir/mainwindow.cpp.obj	b7c44eaa2a41ff7a
+233	2164	7346362054888086	CMakeFiles/sg.dir/signup.cpp.obj	c00bd60fb888e4a5
+2164	2350	7346362056589728	sg.exe	c945e1f59c91758

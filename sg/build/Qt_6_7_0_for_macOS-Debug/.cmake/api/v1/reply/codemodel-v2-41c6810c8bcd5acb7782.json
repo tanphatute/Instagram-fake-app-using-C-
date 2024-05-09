@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-232e0015054fa614db39.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sg-Debug-519df49d9391042ba775.json",
+					"name" : "sg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sg_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sg_autogen-Debug-6f4758bc5b59335ccddf.json",
+					"name" : "sg_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sg_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sg_autogen_timestamp_deps-Debug-9d2bd69269f649f795f2.json",
+					"name" : "sg_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/phamhy/Downloads/Workspace/HO\u0323C TA\u0323\u0302P/C:C++/sg/build/Qt_6_7_0_for_macOS-Debug",
+		"source" : "/Users/phamhy/Downloads/Workspace/HO\u0323C TA\u0323\u0302P/C:C++/sg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
